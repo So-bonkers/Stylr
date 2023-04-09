@@ -4,4 +4,5 @@ Stylr App (Made for the subject TPE as taught by Prof. Prakash Yalla in spring '
 Contribution:
 
 Front End - Amey Kunte
+
 Back End - Shubhankar Kamthankar
